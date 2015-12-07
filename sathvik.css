@@ -1,0 +1,17 @@
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+    
+}
+.jumbotron{
+  height: 500px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+}
+.jumbotron >h2
+{
+  margin:  auto;
+}
